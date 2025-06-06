@@ -173,7 +173,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arrycodez&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
-<p align="center">
+<p align="center">💡 Total Contributions (All Time): 1,700+ commits
+
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arrycodez&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arrycodez&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" />
 </p>
