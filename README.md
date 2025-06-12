@@ -31,7 +31,7 @@
 </p>
 
 <ul>
-  <li>🎓 <b>2nd-year undergraduate student at <i>SRM University</i></b></li>
+  <li>🎓 <b>3rd-year undergraduate student at <i>SRM University</i></b></li>
 <li>🐍 Skilled in <b>Python</b> programming for automation, scripting, and backend development</li>
 <li>🧠 Strong foundation in <b>Data Structures & Algorithms</b>, with a focus on problem-solving and logic building</li>
 <li>💡 Proficient in <b>C programming</b> with hands-on experience in system-level programming and memory management</li>
