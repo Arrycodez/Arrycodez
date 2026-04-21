@@ -164,19 +164,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- GitHub Stats Section -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122180-c5e0e1a1-4de6-4a7c-b685-8aebd9aee10e.png" width="30" />
-  GitHub Stats
-</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arrycodez&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<p align="center">
- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arrycodez&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arrycodez&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" />
-</p>
 
 <!-- Activity Graph -->
 <p align="center">
