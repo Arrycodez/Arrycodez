@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&height=50&lines=A+passionate+Programmer+from+India;Building+the+future+with+code;Python+%7C+AI%2FML+%7C+C-language" alt="Description Typing" />
 </h3>
 
-
+![Visitor Count](https://komarev.com/ghpvc/?username=Arrycodez&color=brightgreen)
 
 <br>
 
@@ -168,8 +168,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ak8057&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 <!-- Animated Divider -->
